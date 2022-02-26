@@ -1,0 +1,26 @@
+C:\Users\Serking de Orayom\Desktop\Shutdown Timer\bin\Debug\Shutdown Timer.exe.config
+C:\Users\Serking de Orayom\Desktop\Shutdown Timer\bin\Debug\Shutdown Timer.exe
+C:\Users\Serking de Orayom\Desktop\Shutdown Timer\bin\Debug\Shutdown Timer.pdb
+C:\Users\Serking de Orayom\Desktop\Shutdown Timer\obj\Debug\Shutdown_Timer.Properties.Resources.resources
+C:\Users\Serking de Orayom\Desktop\Shutdown Timer\obj\Debug\Shutdown Timer.csproj.GenerateResource.cache
+C:\Users\Serking de Orayom\Desktop\Shutdown Timer\obj\Debug\Shutdown Timer.csproj.CoreCompileInputs.cache
+C:\Users\Serking de Orayom\Desktop\Shutdown Timer\obj\Debug\Shutdown Timer.exe
+C:\Users\Serking de Orayom\Desktop\Shutdown Timer\obj\Debug\Shutdown Timer.pdb
+C:\Users\Serking de Orayom\Desktop\Shutdown Timer\obj\Debug\Shutdown_Timer.form_main.resources
+C:\Users\Serking de Orayom\Desktop\Shutdown Timer\obj\Debug\Shutdown_Timer.form_about.resources
+C:\Users\Serking de Orayom\Desktop\Shutdown Timer\obj\Debug\Shutdown_Timer.form_feedback.resources
+C:\Users\Serking de Orayom\Desktop\Shutdown Timer\obj\Debug\Shutdown_Timer.form_help.resources
+C:\Users\kingd\Desktop\Shutdown Timer\bin\Debug\Shutdown Timer.exe.config
+C:\Users\kingd\Desktop\Shutdown Timer\bin\Debug\Shutdown Timer.exe
+C:\Users\kingd\Desktop\Shutdown Timer\bin\Debug\Shutdown Timer.pdb
+C:\Users\kingd\Desktop\Shutdown Timer\obj\Debug\Shutdown Timer.csproj.AssemblyReference.cache
+C:\Users\kingd\Desktop\Shutdown Timer\obj\Debug\Shutdown_Timer.form_about.resources
+C:\Users\kingd\Desktop\Shutdown Timer\obj\Debug\Shutdown_Timer.form_feedback.resources
+C:\Users\kingd\Desktop\Shutdown Timer\obj\Debug\Shutdown_Timer.form_help.resources
+C:\Users\kingd\Desktop\Shutdown Timer\obj\Debug\Shutdown_Timer.form_main.resources
+C:\Users\kingd\Desktop\Shutdown Timer\obj\Debug\Shutdown_Timer.Properties.Resources.resources
+C:\Users\kingd\Desktop\Shutdown Timer\obj\Debug\Shutdown Timer.csproj.GenerateResource.cache
+C:\Users\kingd\Desktop\Shutdown Timer\obj\Debug\Shutdown Timer.csproj.CoreCompileInputs.cache
+C:\Users\kingd\Desktop\Shutdown Timer\obj\Debug\Shutdown Timer.exe
+C:\Users\kingd\Desktop\Shutdown Timer\obj\Debug\Shutdown Timer.pdb
+C:\Users\kingd\Desktop\Shutdown Timer\obj\Debug\Shutdown Timer.csproj.SuggestedBindingRedirects.cache
