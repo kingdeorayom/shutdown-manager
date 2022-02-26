@@ -84,7 +84,7 @@ namespace Shutdown_Timer
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(81, 15);
             this.label3.TabIndex = 9;
-            this.label3.Text = "Version 1.0.0.0";
+            this.label3.Text = "Version 1.0.0.1";
             this.label3.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
             // 
             // label4
